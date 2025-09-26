@@ -1,4 +1,3 @@
-# Mock database (list of dictionaries)
 MOCK_DATABASE = [
     {'id': 3, 'name': 'Charlie'},
     {'id': 1, 'name': 'Alice'},
